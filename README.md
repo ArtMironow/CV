@@ -10,7 +10,7 @@
 
 ## Position:
 
-Trainee/junior frontend developer
+Trainee/junior software developer
 
 ## Location:
 
